@@ -1,2 +1,3 @@
 # LAB4_Final
-fuck
+
+[o] ICACHE.txt and  DCACHE.txt will appear after compiling *.V source file
